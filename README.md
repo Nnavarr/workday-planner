@@ -3,7 +3,7 @@
 
 ## Description
 
-This repository contains the code base used in creating the **Work Day Scheduler* application; a single day task schedule app where a user can create and save tasks for a regular 9-5 workday. The app will save tasks into the local storage and will be loaded on a daily basis. When a new day starts, a fresh scheduler will be automatically created. Lastly, when loaded, the background for each time block will change depending on whether it's in the past, present, or future.
+This repository contains the code base used in creating the **Work Day Scheduler** application; a single day task schedule app where a user can create and save tasks for a regular 9-5 workday. The app will save tasks into the local storage and will be loaded on a daily basis. When a new day starts, a fresh scheduler will be automatically created. Lastly, when loaded, the background for each time block will change depending on whether it's in the past, present, or future.
 
 ## App
 
